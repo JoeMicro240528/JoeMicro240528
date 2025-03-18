@@ -2,8 +2,7 @@
 <p>🌍  I am a Front-End Developer based in sudan.</p>
 <p>💻 Open to work!</p>
 
-<p>Tech stack</p>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwindcss,bootstrap,scss,figma)](https://skillicons.dev)
+<p>Tech stack</p>[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwindcss,bootstrap,scss,figma)](https://skillicons.dev)
 
 
 <!---
